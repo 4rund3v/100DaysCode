@@ -1,8 +1,9 @@
 [100 Days of Code]
-100 Days of code : Daily work on a simple small concept/problem statement in any technology and have an working solution for it.
+Daily work on a simple small concept/problem statement in any technology and have an working solution for it.
 
+- - - - -
 Daily Updates :
-   
+
   - Day 51 : [WeekOfES 1] Work on ElasticSearch: Primaryly
      - [Server] Index all the harry potter books into elasticsearch server.
      - [React] Implement an search bar with search feature
